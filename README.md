@@ -1,6 +1,6 @@
 # Superstore Sales Analysis & Automated Dashboard
 
-![Screenshot of the final Excel Dashboard](dashboard_screenshot.png)
+![Screenshot of the final Excel Dashboard](https://github.com/mrdhumaltushar/Superstore-Analysis-Project/blob/main/Dashboard%20Image.png)
 
 ## 1. Project Objective
 
